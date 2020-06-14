@@ -36,4 +36,11 @@ Ev fiyatları arttıkça evdeki oda sayılarının arttığı görünmektedir.
 
 ![odaSayisininMedvKarsilastirilmasi](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/odaSayisininMedvKarsilasitirilmasi.png)
 
+Kod Açıklama
 
+![k1](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama1.PNG)
+![k2](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama2.PNG)
+![k3](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama3.PNG)
+![k4](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama4.PNG)
+![k5](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama5.PNG)
+![k6](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama6.PNG)
