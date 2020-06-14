@@ -22,7 +22,6 @@ LSTAT: Nüfusun düşük statüsü
 MEDV: 1000 $ ev sahiplerinin medyanı
 
 
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fml-boston-housing-kaggle-challenge-with-linear-regression%2F&psig=AOvVaw1PzZDYxmeE8P5Gc6IDBQDL&ust=1592226299595000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOizhKqvgeoCFQAAAAAdAAAAABAD)
-
+!(https://miro.medium.com/max/1394/1*5KmVaL6NijJI3rWZrbGvnA.png)
 
 
