@@ -22,6 +22,6 @@ LSTAT: Nüfusun düşük statüsü
 MEDV: 1000 $ ev sahiplerinin medyanı
 
 
-!(https://miro.medium.com/max/1394/1*5KmVaL6NijJI3rWZrbGvnA.png)
+![data](https://miro.medium.com/max/1394/1*5KmVaL6NijJI3rWZrbGvnA.png)
 
 
