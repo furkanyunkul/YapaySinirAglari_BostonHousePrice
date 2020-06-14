@@ -32,6 +32,7 @@ Ev fiyatları arttıkça suç oranlarının düştüğü görünmektedir.
 
 ![sucOraniMedvKarsilastirilmasi](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/sucOraniniMedvKarsilasitirmasi.png)
 
+Ev fiyatları arttıkça evdeki oda sayılarının arttığı görünmektedir.
 
 ![odaSayisininMedvKarsilastirilmasi](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/odaSayisininMedvKarsilasitirilmasi.png)
 
