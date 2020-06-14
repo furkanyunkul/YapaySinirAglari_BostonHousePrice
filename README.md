@@ -24,4 +24,12 @@ MEDV: 1000 $ ev sahiplerinin medyanı
 
 ![data](https://miro.medium.com/max/1394/1*5KmVaL6NijJI3rWZrbGvnA.png)
 
+Verideki örnek kolonlar için medv karışlaştırılması
+
+Dağılım Grafiği
+
+Ev fiyatları arttıkça suç oranlarının düştüğü görünmektedir.
+
+![sucOraniMedvKarsilastirilmasi)(https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/sucOraniniMedvKarsilasitirmasi.png)
+
 
