@@ -30,6 +30,6 @@ Dağılım Grafiği
 
 Ev fiyatları arttıkça suç oranlarının düştüğü görünmektedir.
 
-![sucOraniMedvKarsilastirilmasi)(https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/sucOraniniMedvKarsilasitirmasi.png)
+![sucOraniMedvKarsilastirilmasi](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/sucOraniniMedvKarsilasitirmasi.png)
 
 
