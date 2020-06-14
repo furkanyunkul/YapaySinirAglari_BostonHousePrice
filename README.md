@@ -44,3 +44,19 @@ Kod Açıklama
 ![k4](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama4.PNG)
 ![k5](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama5.PNG)
 ![k6](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/kodAciklama6.PNG)
+
+
+Eğitim algoritması,layer sayısı,aktivasyon fonksiyonu,epoch sayısı,öğrenme oranı değişiklik gösterebilir.
+Aşağıda örnek olması bakımından tek hidden layer 8 nöron ,trainbr (Bayesian regularization backpropagation) eğitim algoritması,epoch sayısı 1000,öğrenme oranı 10^-3 ,train oranı %75,test oranı %25 sonuçları yer almaktadır.
+
+![p](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/trainbrPerformance.png)
+Performans grafiği
+
+![r](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/trainbrRegression.png)
+Regresyon grafiği
+
+![t] (https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/trainbrTrain.png)
+Train grafiği
+
+![tst](https://github.com/furkanyunkul/YapaySinirAglari_BostonHousePrice/blob/master/trainbrTest.png)
+Test grafiği
